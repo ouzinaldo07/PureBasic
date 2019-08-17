@@ -1,0 +1,9 @@
+body{
+	font-family: Constanian;
+	background: radial-gradient(black, white);
+	font-size: 18px;
+}
+
+.spacer{
+	margin-top: 100px;
+}
